@@ -27,7 +27,7 @@ Welcome to the React ToDoApp, a simple and intuitive task management application
     
 Open your web browser and access the app at http://localhost:3000 (by default).
 
-# Adding a Task
+## Adding a Task
 To add a task to your to-do list, follow these simple steps:
 
 1. Launch the ToDoApp in your web browser.
@@ -36,7 +36,7 @@ To add a task to your to-do list, follow these simple steps:
 
 The newly added task will now appear in your to-do list.
 
-# Editing a Task
+## Editing a Task
 Need to update or modify a task? No problem. Here's how you can do it:
 
 1. Open the ToDoApp in your web browser.
@@ -47,7 +47,7 @@ Need to update or modify a task? No problem. Here's how you can do it:
 
 4. The task details will become editable. Update the task description or any other information as needed.
 
-# Deleting a Task
+## Deleting a Task
 If you no longer need a task in your to-do list, you can easily delete it:
 
 1. Open the ToDoApp in your web browser.
@@ -58,5 +58,5 @@ If you no longer need a task in your to-do list, you can easily delete it:
 
 The task will be removed from your list.
 
-# Support and Feedback
+## Support and Feedback
 If you encounter any issues, have suggestions for improvements, or need assistance with the React ToDoApp, please feel free to reach out to us at abyjoseofficial@gmail.com.
